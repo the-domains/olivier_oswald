@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Olivier_Oswald]]></title>
-        <description><![CDATA[Olivier_Oswald]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Olivier OSWALD]]></title>
+        <description><![CDATA[Olivier OSWALD]]></description>
+        <link>https://thegrid.ai/olivier_oswald/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 19:36:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 19:47:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olivier_oswald/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Présentation]]></title>
             <description><![CDATA[<article><h1>Présentation</h1><p>Depuis 2015, j'anime des ateliers de rythmes ludiques, méditatifs, à la fois toniques et relaxants pour tout public (voir mon site lerythme.fr).</p></article>]]></description>
-            <link>undefinedpresentation/index.html</link>
+            <link>https://thegrid.ai/olivier_oswald/presentation/index.html</link>
             <guid isPermaLink="false">129fae52-abdb-4679-a095-b291891e2072</guid>
-            <pubDate>Mon, 15 Aug 2016 19:36:31 GMT</pubDate>
+            <pubDate>Mon, 15 Aug 2016 19:47:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
