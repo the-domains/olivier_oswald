@@ -7,22 +7,21 @@ keywords: []
 description: >-
   Depuis 2015, j'anime des ateliers de rythmes ludiques, méditatifs, à la fois
   toniques et relaxants pour tout public (voir mon site lerythme.fr).
-datePublished: '2016-08-15T19:36:31.856Z'
-dateModified: '2016-08-15T19:35:47.449Z'
+datePublished: '2016-08-15T19:47:03.566Z'
+dateModified: '2016-08-15T19:46:15.616Z'
 title: Présentation
 author: []
 via: {}
+sourcePath: _posts/2016-08-15-presentation.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-15-presentation.md
 url: presentation/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4762d5ef-8435-41c8-acff-1645d23acdc2.jpg)
-
 # Présentation
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4762d5ef-8435-41c8-acff-1645d23acdc2.jpg)
 
 Depuis 2015, j'anime des ateliers de rythmes ludiques, méditatifs, à la fois toniques et relaxants pour tout public (voir mon site [lerythme.fr][0]).
 
